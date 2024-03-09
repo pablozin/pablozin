@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
-<h3 align="center">A brazilian junior backend programmer looking to learn and grow in the development field.</h3>
+<h3 align="center">A brazilian junior backend programmer looking to learn and grow.</h3>
 
-- 📚 I’m currently learning **Java AI development and database.**
+- 📚 Currently studying **Java and database.**
 
 - 🎓 I have a certified on **Cloud Services practices using Swift with an emphasis on Cognitive Services**
 
-- 👨‍💻 All of my projects are available right here on my GitHub!
+- 👨‍💻 All of my projects are available right here on my GitHub.
 
 - 🖇️ But, if you want to know more about my all experiences: [https://www.linkedin.com/in/pablo-rubens-6498252ab/](https://www.linkedin.com/in/pablo-rubens-6498252ab/)
 
