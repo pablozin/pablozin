@@ -27,8 +27,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pablozin/pablozin/output/snake.svg" alt="Snake animation" />
+[![Leetcode Stats](https://leetcard.jacoblin.cool/PabSkrra)](https://leetcode.com/PabSkrra)
 
 ###
