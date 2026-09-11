@@ -1,6 +1,7 @@
 <div align="center">
   <img height="150" src="https://media1.tenor.com/m/rZm2DTx3FKIAAAAd/monkey-music-monkey.gif" />
 </div>
+
 # Hey, welcome!
 
 My name's Pablo and I'm a Computer Engineering student at **UFERSA**, focused on embedded systems development, backend development, and infrastructure. My work spans from low-level programming on microcontrollers to building robust web systems, combining hardware, security, and automation.
